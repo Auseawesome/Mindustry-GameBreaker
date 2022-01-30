@@ -9,7 +9,19 @@ shots: 1
 recoilAmount: 4
 range: 160
 ammoTypes: {
-  copper: {"recursiveBullet"}
+  copper: {"recursiveBullet":
+    type: BasicBulletType
+    damage: 1
+    height: 1
+    width: 1
+    speed: 1
+    lifetime: 1
+    ammoMultiplier: 1
+    smokeEffect: shootSmallSmoke
+   absorbable: false
+   fragBullets: 10
+   fragBullet: recursiveBullet 
+}
 }
 requirements: [
   copper/1
