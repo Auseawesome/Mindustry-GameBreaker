@@ -1,8 +1,8 @@
-name: "mindustry-plus"
-displayName: "Mindustry+ Core"
+name: "mindustry-gamebreaker"
+displayName: "Mindustry Gamebreaker"
 author: Auseawesome
-description: "A mod made to alter vanilla progression"
-version: "Alpha 0.4"
+description: "A mod made to break mindustry"
+version: "Alpha 0.1"
 minGameVersion: "126.2"
 dependencies: [ ]
 hidden: false
