@@ -1,0 +1,8 @@
+name: "mindustry-plus"
+displayName: "Mindustry+ Core"
+author: Auseawesome
+description: "A mod made to alter vanilla progression"
+version: "Alpha 0.4"
+minGameVersion: "126.2"
+dependencies: [ ]
+hidden: false
