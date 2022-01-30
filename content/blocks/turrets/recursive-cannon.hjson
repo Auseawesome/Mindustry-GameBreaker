@@ -20,7 +20,7 @@ ammoTypes: {
     smokeEffect: shootSmallSmoke
     absorbable: false
     fragBullets: 100
-    fragBullet: {"recursiveBulletTwo:
+    fragBullet: {"recursiveBulletTwo":
       type: BasicBulletType
       damage: 1
       height: 1
@@ -31,7 +31,7 @@ ammoTypes: {
       smokeEffect: shootSmallSmoke
       absorbable: false
       fragBullets: 100
-      fragBullet: {"recursiveBulletThree:
+      fragBullet: {"recursiveBulletThree":
         type: BasicBulletType
         damage: 1
         height: 1
@@ -42,7 +42,7 @@ ammoTypes: {
         smokeEffect: shootSmallSmoke
         absorbable: false
         fragBullets: 100
-        fragBullet: {"recursiveBulletFour:
+        fragBullet: {"recursiveBulletFour":
           type: BasicBulletType
           damage: 1
           height: 1
