@@ -20,7 +20,7 @@ ammoTypes: {
     smokeEffect: shootSmallSmoke
    absorbable: false
    fragBullets: 10
-   fragBullet: recursiveBullet 
+   fragBullet: "recursiveBullet"
 }
 }
 requirements: [
