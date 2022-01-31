@@ -1,6 +1,2 @@
-# Mindustry+
-A Json mod for Mindustry designed to add more factories and more resources to make mindustry more interesting. Mindustry's progression is very linear and this mod is here to fix that!
-
-This adds the ability to crush ores, melt ores and make advanced alloys. This mod will also be a base for many other mods all stemming off the basic things added in this mod.
-
-This mod adds to vanilla progression
+# Mindustry Game Breaker
+A Json mod for Mindustry designed to add more random stuff that completely breaks the game, usually by freezing or crashing it. Use at you own risk!
